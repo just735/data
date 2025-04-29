@@ -1,0 +1,11 @@
+--> start
+==> get positive samples: 14296
+==> get negative samples: 7148
+---------  Modeling ------------
+--------------------------------
+Fold: 0
+==> 0m0.model had been trained.
+| AUC (Train):	0.938348996478
+| AUC Score (test):	0.93617048386
+| Accuracy: 0.94965034965 | Precision: 0.949762389681 | Recall: 0.976273551989 | F1: 0.962835512732
+--------------------------------
